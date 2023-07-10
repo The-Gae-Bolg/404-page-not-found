@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://eloquent-hotteok-5ed14a.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/The-Gae-Bolg/404-page-not-found">
       Solution
     </a>
     <span> | </span>
